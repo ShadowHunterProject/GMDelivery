@@ -1,0 +1,50 @@
+# GMDelivery Configuration
+
+# Database Configuration
+database:
+  # Using SQLite as requested
+  type: "SQLITE"
+  file: "database.db"
+
+# GUI Settings
+gui_category:
+  title: "&8&l✦ DANH MỤC THƯƠNG NHÂN ✦"
+  layout:
+    - "BBBBBBBBB"
+    - "B       B"
+    - "BBBBBBBBB"
+  items:
+    background:
+      material: "BLACK_STAINED_GLASS_PANE"
+      name: " "
+
+gui_task:
+  title: "&8&l✦ HỢP ĐỒNG GIAO HÀNG ✦"
+  layout:
+    - "B B B B B B B B B"
+    - "B B B B B B B B B"
+    - "B B B T B R B B B"
+    - "B B B B B B B B B"
+    - "B B B B B B B B B"
+  items:
+    background:
+      material: "BLACK_STAINED_GLASS_PANE"
+      name: " "
+    submit:
+      material: "GREEN_STAINED_GLASS_PANE"
+      name: "&a&l✔ Ký Hợp Đồng & Giao Hàng"
+      lore:
+        - "&7▶ &fNhấn vào đây để nộp toàn bộ"
+        - "   &fcác vật phẩm được yêu cầu."
+    claim:
+      material: "GOLD_BLOCK"
+      name: "&6&l★ Nhận Thù Lao ★"
+      lore:
+        - "&7▶ &fThương nhân đã kiểm định xong!"
+        - "   &eNhấn để nhận phần thưởng của bạn."
+    waiting:
+      material: "CLOCK"
+      name: "&e&l⏳ Đang Kiểm Định..."
+      lore:
+        - "&7▶ &fThương nhân đang kiểm tra hàng hóa."
+        - "   &7Thời gian còn lại: &e%time%"

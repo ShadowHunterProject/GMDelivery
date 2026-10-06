@@ -1,0 +1,10 @@
+prefix: "&8[&6&lHội Thương Nhân&8] &r"
+no_permission: "&c&l❌ &cBạn không có quyền thực hiện lệnh này."
+reload_success: "&a&l✔ &aĐã tải lại cấu hình plugin thành công!"
+not_player: "&c&l❌ &cChỉ người chơi mới có thể giao dịch với thương nhân."
+gui_title: "&8&l✦ DANH MỤC THƯƠNG NHÂN ✦"
+
+task_completed: "&e&l📦 &fĐã giao kiện hàng thành công! &7Vui lòng chờ thương nhân kiểm định..."
+task_claim: "&a&l🎉 &fTuyệt vời! &aBạn đã nhận thù lao thành công."
+not_enough_items: "&c&l❌ &fBạn không mang đủ vật phẩm mà thương nhân yêu cầu!"
+wait_time: "&c&l⏳ &7Bạn cần phải chờ &e%time% &7nữa mới có thể nhận thù lao!"

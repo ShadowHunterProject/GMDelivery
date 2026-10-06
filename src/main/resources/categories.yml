@@ -1,0 +1,17 @@
+categories:
+  ore:
+    display-name: "&6🪨 Hợp Đồng Khoáng Sản"
+    icon: RAW_GOLD
+    lore:
+      - "&7▶ &fChuỗi nhiệm vụ giao quặng"
+      - "&ftừ Dungeon Rank E đến A+."
+      - ""
+      - "&b⬩ Nhấn để mở!"
+  kynang:
+    display-name: "&d📜 Thư Viện Kỹ Năng"
+    icon: ENCHANTED_BOOK
+    lore:
+      - "&7▶ &fThương nhân thu mua bí kíp"
+      - "&fkỹ năng Thượng Phẩm & Huyền Thoại."
+      - ""
+      - "&b⬩ Nhấn để mở!"

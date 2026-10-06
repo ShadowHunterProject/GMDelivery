@@ -1,0 +1,2230 @@
+# Các task kynang tự động tạo
+tasks:
+  "kynang_task_1":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e145.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+10"
+    level_required: 10
+    wait_time_seconds: 310
+    items:
+      - "VOUCHERS:bom:4"
+    rewards:
+      xp: 1300
+      commands:
+        - "eco give %player% 145000"
+        - "turtletop add %player% giaohang 10"
+  "kynang_task_2":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e140.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+11"
+    level_required: 10
+    wait_time_seconds: 330
+    items:
+      - "VOUCHERS:lua1:3"
+    rewards:
+      xp: 1350
+      commands:
+        - "eco give %player% 140000"
+        - "turtletop add %player% giaohang 11"
+  "kynang_task_3":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e145.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+12"
+    level_required: 10
+    wait_time_seconds: 357
+    items:
+      - "VOUCHERS:bom:3"
+    rewards:
+      xp: 1450
+      commands:
+        - "eco give %player% 145000"
+        - "turtletop add %player% giaohang 12"
+  "kynang_task_4":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e180.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1700 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+13"
+    level_required: 10
+    wait_time_seconds: 391
+    items:
+      - "VOUCHERS:lua1:6"
+    rewards:
+      xp: 1700
+      commands:
+        - "eco give %player% 180000"
+        - "turtletop add %player% giaohang 13"
+  "kynang_task_5":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e175.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1750 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+14"
+    level_required: 12
+    wait_time_seconds: 431
+    items:
+      - "VOUCHERS:bom:5"
+    rewards:
+      xp: 1750
+      commands:
+        - "eco give %player% 175000"
+        - "turtletop add %player% giaohang 14"
+  "kynang_task_6":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e140.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1650 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+15"
+    level_required: 12
+    wait_time_seconds: 475
+    items:
+      - "VOUCHERS:bang1:1"
+    rewards:
+      xp: 1650
+      commands:
+        - "eco give %player% 140000"
+        - "turtletop add %player% giaohang 15"
+  "kynang_task_7":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e155.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+1800 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+16"
+    level_required: 12
+    wait_time_seconds: 524
+    items:
+      - "VOUCHERS:lua1:2"
+    rewards:
+      xp: 1800
+      commands:
+        - "eco give %player% 155000"
+        - "turtletop add %player% giaohang 16"
+  "kynang_task_8":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e210.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+17"
+    level_required: 12
+    wait_time_seconds: 578
+    items:
+      - "VOUCHERS:lua1:7"
+    rewards:
+      xp: 2150
+      commands:
+        - "eco give %player% 210000"
+        - "turtletop add %player% giaohang 17"
+  "kynang_task_9":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e205.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2200 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+18"
+    level_required: 12
+    wait_time_seconds: 636
+    items:
+      - "VOUCHERS:lua1:6"
+    rewards:
+      xp: 2200
+      commands:
+        - "eco give %player% 205000"
+        - "turtletop add %player% giaohang 18"
+  "kynang_task_10":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e180.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+19"
+    level_required: 14
+    wait_time_seconds: 698
+    items:
+      - "VOUCHERS:lua1:3"
+    rewards:
+      xp: 2150
+      commands:
+        - "eco give %player% 180000"
+        - "turtletop add %player% giaohang 19"
+  "kynang_task_11":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e235.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+19"
+    level_required: 14
+    wait_time_seconds: 763
+    items:
+      - "VOUCHERS:lua1:8"
+    rewards:
+      xp: 2500
+      commands:
+        - "eco give %player% 235000"
+        - "turtletop add %player% giaohang 19"
+  "kynang_task_12":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e220.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+20"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+    level_required: 14
+    wait_time_seconds: 832
+    items:
+      - "VOUCHERS:lua1:6"
+    rewards:
+      xp: 2500
+      commands:
+        - "eco give %player% 220000"
+        - "turtletop add %player% giaohang 20"
+        - "crates key give %player% cratesonlinekey 1"
+  "kynang_task_13":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e265.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2800 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+21"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx2"
+    level_required: 14
+    wait_time_seconds: 905
+    items:
+      - "VOUCHERS:bom:10"
+    rewards:
+      xp: 2800
+      commands:
+        - "eco give %player% 265000"
+        - "turtletop add %player% giaohang 21"
+        - "crates key give %player% cratesonlinekey 2"
+  "kynang_task_14":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e260.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2850 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+22"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+    level_required: 14
+    wait_time_seconds: 982
+    items:
+      - "VOUCHERS:bang1:9"
+    rewards:
+      xp: 2850
+      commands:
+        - "eco give %player% 260000"
+        - "turtletop add %player% giaohang 22"
+        - "crates key give %player% cratesonlinekey 4"
+  "kynang_task_15":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e235.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2800 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+23"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+    level_required: 16
+    wait_time_seconds: 1061
+    items:
+      - "VOUCHERS:bang1:6"
+    rewards:
+      xp: 2800
+      commands:
+        - "eco give %player% 235000"
+        - "turtletop add %player% giaohang 23"
+        - "crates key give %player% cratesckey 1"
+  "kynang_task_16":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e240.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2900 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+24"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+    level_required: 16
+    wait_time_seconds: 1144
+    items:
+      - "VOUCHERS:bang1:6"
+    rewards:
+      xp: 2900
+      commands:
+        - "eco give %player% 240000"
+        - "turtletop add %player% giaohang 24"
+        - "crates key give %player% cratesonlinekey 4"
+  "kynang_task_17":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e225.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+2900 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+25"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+    level_required: 16
+    wait_time_seconds: 1230
+    items:
+      - "VOUCHERS:bang1:4"
+    rewards:
+      xp: 2900
+      commands:
+        - "eco give %player% 225000"
+        - "turtletop add %player% giaohang 25"
+        - "crates key give %player% cratesckey 3"
+  "kynang_task_18":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e290.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+3300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+26"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx2"
+    level_required: 16
+    wait_time_seconds: 1319
+    items:
+      - "VOUCHERS:lua1:10"
+    rewards:
+      xp: 3300
+      commands:
+        - "eco give %player% 290000"
+        - "turtletop add %player% giaohang 26"
+        - "crates key give %player% cratesonlinekey 2"
+  "kynang_task_19":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e245.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+3150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+27"
+    level_required: 16
+    wait_time_seconds: 1411
+    items:
+      - "VOUCHERS:bom:5"
+    rewards:
+      xp: 3150
+      commands:
+        - "eco give %player% 245000"
+        - "turtletop add %player% giaohang 27"
+  "kynang_task_20":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e240.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+3200 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+28"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 18
+    wait_time_seconds: 1506
+    items:
+      - "VOUCHERS:bom:4"
+    rewards:
+      xp: 3200
+      commands:
+        - "eco give %player% 240000"
+        - "turtletop add %player% giaohang 28"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_21":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e255.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+3350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+28"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 18
+    wait_time_seconds: 1604
+    items:
+      - "VOUCHERS:lua1:5"
+    rewards:
+      xp: 3350
+      commands:
+        - "eco give %player% 255000"
+        - "turtletop add %player% giaohang 28"
+        - "crates key give %player% cratesonlinekey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_22":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e290.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+3600 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+29"
+    level_required: 18
+    wait_time_seconds: 1705
+    items:
+      - "VOUCHERS:lua1:8"
+    rewards:
+      xp: 3600
+      commands:
+        - "eco give %player% 290000"
+        - "turtletop add %player% giaohang 29"
+  "kynang_task_23":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e365.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4050 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+30"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 18
+    wait_time_seconds: 1809
+    items:
+      - "VOUCHERS:lua1:15"
+    rewards:
+      xp: 4050
+      commands:
+        - "eco give %player% 365000"
+        - "turtletop add %player% giaohang 30"
+        - "crates key give %player% cratesonlinekey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "kynang_task_24":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e380.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4200 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+31"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+    level_required: 18
+    wait_time_seconds: 1915
+    items:
+      - "VOUCHERS:lua1:16"
+    rewards:
+      xp: 4200
+      commands:
+        - "eco give %player% 380000"
+        - "turtletop add %player% giaohang 31"
+        - "crates key give %player% cratesonlinekey 5"
+  "kynang_task_25":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e335.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4050 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+32"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 20
+    wait_time_seconds: 2024
+    items:
+      - "VOUCHERS:bang1:11"
+    rewards:
+      xp: 4050
+      commands:
+        - "eco give %player% 335000"
+        - "turtletop add %player% giaohang 32"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "kynang_task_26":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e380.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+33"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+    level_required: 20
+    wait_time_seconds: 2136
+    items:
+      - "VOUCHERS:lua1:15"
+    rewards:
+      xp: 4350
+      commands:
+        - "eco give %player% 380000"
+        - "turtletop add %player% giaohang 33"
+        - "crates key give %player% cratesonlinekey 3"
+  "kynang_task_27":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e325.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+34"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 20
+    wait_time_seconds: 2250
+    items:
+      - "VOUCHERS:bang1:9"
+    rewards:
+      xp: 4150
+      commands:
+        - "eco give %player% 325000"
+        - "turtletop add %player% giaohang 34"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_28":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e350.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+35"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 20
+    wait_time_seconds: 2367
+    items:
+      - "VOUCHERS:bang1:11"
+    rewards:
+      xp: 4350
+      commands:
+        - "eco give %player% 350000"
+        - "turtletop add %player% giaohang 35"
+        - "crates key give %player% cratesckey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "kynang_task_29":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e375.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4550 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+36"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 20
+    wait_time_seconds: 2486
+    items:
+      - "VOUCHERS:bang1:13"
+    rewards:
+      xp: 4550
+      commands:
+        - "eco give %player% 375000"
+        - "turtletop add %player% giaohang 36"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "kynang_task_30":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e390.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4700 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+37"
+    level_required: 22
+    wait_time_seconds: 2608
+    items:
+      - "VOUCHERS:lua1:14"
+    rewards:
+      xp: 4700
+      commands:
+        - "eco give %player% 390000"
+        - "turtletop add %player% giaohang 37"
+  "kynang_task_31":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e415.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4900 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+37"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+    level_required: 22
+    wait_time_seconds: 2733
+    items:
+      - "VOUCHERS:bang1:16"
+    rewards:
+      xp: 4900
+      commands:
+        - "eco give %player% 415000"
+        - "turtletop add %player% giaohang 37"
+        - "crates key give %player% cratesonlinekey 1"
+  "kynang_task_32":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e380.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+4800 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+38"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 22
+    wait_time_seconds: 2860
+    items:
+      - "VOUCHERS:lua1:12"
+    rewards:
+      xp: 4800
+      commands:
+        - "eco give %player% 380000"
+        - "turtletop add %player% giaohang 38"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "kynang_task_33":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e435.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+39"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 22
+    wait_time_seconds: 2989
+    items:
+      - "VOUCHERS:bang1:17"
+    rewards:
+      xp: 5150
+      commands:
+        - "eco give %player% 435000"
+        - "turtletop add %player% giaohang 39"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "kynang_task_34":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e480.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+40"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 22
+    wait_time_seconds: 3120
+    items:
+      - "VOUCHERS:bom:21"
+    rewards:
+      xp: 5450
+      commands:
+        - "eco give %player% 480000"
+        - "turtletop add %player% giaohang 40"
+        - "crates key give %player% cratesckey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_35":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e455.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5400 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+41"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+    level_required: 24
+    wait_time_seconds: 3254
+    items:
+      - "VOUCHERS:bang1:18"
+    rewards:
+      xp: 5400
+      commands:
+        - "eco give %player% 455000"
+        - "turtletop add %player% giaohang 41"
+        - "crates key give %player% cratesckey 3"
+  "kynang_task_36":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e410.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5250 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+42"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 24
+    wait_time_seconds: 3390
+    items:
+      - "VOUCHERS:lua1:13"
+    rewards:
+      xp: 5250
+      commands:
+        - "eco give %player% 410000"
+        - "turtletop add %player% giaohang 42"
+        - "crates key give %player% cratesonlinekey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_37":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e435.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+43"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+    level_required: 24
+    wait_time_seconds: 3529
+    items:
+      - "VOUCHERS:bom:15"
+    rewards:
+      xp: 5450
+      commands:
+        - "eco give %player% 435000"
+        - "turtletop add %player% giaohang 43"
+        - "crates key give %player% cratesonlinekey 1"
+  "kynang_task_38":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e400.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+44"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+    level_required: 24
+    wait_time_seconds: 3670
+    items:
+      - "VOUCHERS:bom:11"
+    rewards:
+      xp: 5350
+      commands:
+        - "eco give %player% 400000"
+        - "turtletop add %player% giaohang 44"
+        - "crates key give %player% cratesonlinekey 5"
+  "kynang_task_39":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e515.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6000 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+45"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 24
+    wait_time_seconds: 3813
+    items:
+      - "VOUCHERS:bang1:22"
+    rewards:
+      xp: 6000
+      commands:
+        - "eco give %player% 515000"
+        - "turtletop add %player% giaohang 45"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_40":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e390.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+46"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 3958
+    items:
+      - "VOUCHERS:bom:9"
+    rewards:
+      xp: 5450
+      commands:
+        - "eco give %player% 390000"
+        - "turtletop add %player% giaohang 46"
+        - "crates key give %player% cratesckey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_41":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e765.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7400 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+46"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+    level_required: 26
+    wait_time_seconds: 4105
+    items:
+      - "VOUCHERS:bang1:23"
+      - "VOUCHERS:nhamthach:23"
+    rewards:
+      xp: 7400
+      commands:
+        - "eco give %player% 765000"
+        - "turtletop add %player% giaohang 46"
+        - "crates key give %player% cratesckey 1"
+  "kynang_task_42":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e460.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+5950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+47"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+    level_required: 26
+    wait_time_seconds: 4255
+    items:
+      - "VOUCHERS:bang2:15"
+    rewards:
+      xp: 5950
+      commands:
+        - "eco give %player% 460000"
+        - "turtletop add %player% giaohang 47"
+        - "crates key give %player% cratesonlinekey 1"
+  "kynang_task_43":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e495.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6200 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+48"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 4407
+    items:
+      - "VOUCHERS:chienbinh:18"
+    rewards:
+      xp: 6200
+      commands:
+        - "eco give %player% 495000"
+        - "turtletop add %player% giaohang 48"
+        - "crates key give %player% cratesckey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_44":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e540.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+49"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 4561
+    items:
+      - "VOUCHERS:bang2:22"
+    rewards:
+      xp: 6500
+      commands:
+        - "eco give %player% 540000"
+        - "turtletop add %player% giaohang 49"
+        - "crates key give %player% cratesonlinekey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_45":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e715.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+50"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+    level_required: 28
+    wait_time_seconds: 4717
+    items:
+      - "VOUCHERS:lua1:18"
+      - "VOUCHERS:nhamthach:21"
+    rewards:
+      xp: 7450
+      commands:
+        - "eco give %player% 715000"
+        - "turtletop add %player% giaohang 50"
+        - "crates key give %player% cratesonlinekey 5"
+  "kynang_task_46":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e490.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6400 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+51"
+    level_required: 28
+    wait_time_seconds: 4875
+    items:
+      - "VOUCHERS:bom:16"
+    rewards:
+      xp: 6400
+      commands:
+        - "eco give %player% 490000"
+        - "turtletop add %player% giaohang 51"
+  "kynang_task_47":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e495.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+52"
+    level_required: 28
+    wait_time_seconds: 5035
+    items:
+      - "VOUCHERS:lua2:16"
+    rewards:
+      xp: 6500
+      commands:
+        - "eco give %player% 495000"
+        - "turtletop add %player% giaohang 52"
+  "kynang_task_48":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e810.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+53"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx2"
+    level_required: 28
+    wait_time_seconds: 5197
+    items:
+      - "VOUCHERS:chienbinh:21"
+      - "VOUCHERS:lua2:26"
+    rewards:
+      xp: 8150
+      commands:
+        - "eco give %player% 810000"
+        - "turtletop add %player% giaohang 53"
+        - "crates key give %player% cratesonlinekey 2"
+  "kynang_task_49":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e815.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8250 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+54"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 28
+    wait_time_seconds: 5361
+    items:
+      - "VOUCHERS:bang2:21"
+      - "VOUCHERS:bang1:26"
+    rewards:
+      xp: 8250
+      commands:
+        - "eco give %player% 815000"
+        - "turtletop add %player% giaohang 54"
+        - "crates key give %player% cratesonlinekey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_50":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e550.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7000 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+55"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 30
+    wait_time_seconds: 5528
+    items:
+      - "VOUCHERS:nhamthach:20"
+    rewards:
+      xp: 7000
+      commands:
+        - "eco give %player% 550000"
+        - "turtletop add %player% giaohang 55"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_51":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e525.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+55"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 30
+    wait_time_seconds: 5696
+    items:
+      - "VOUCHERS:bang1:17"
+    rewards:
+      xp: 6950
+      commands:
+        - "eco give %player% 525000"
+        - "turtletop add %player% giaohang 55"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_52":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e540.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7100 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+56"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+    level_required: 30
+    wait_time_seconds: 5866
+    items:
+      - "VOUCHERS:chienbinh:18"
+    rewards:
+      xp: 7100
+      commands:
+        - "eco give %player% 540000"
+        - "turtletop add %player% giaohang 56"
+        - "crates key give %player% cratesskey 2"
+  "kynang_task_53":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e495.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+6950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+57"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 30
+    wait_time_seconds: 6039
+    items:
+      - "VOUCHERS:chienbinh:13"
+    rewards:
+      xp: 6950
+      commands:
+        - "eco give %player% 495000"
+        - "turtletop add %player% giaohang 57"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_54":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e640.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7750 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+58"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 30
+    wait_time_seconds: 6213
+    items:
+      - "VOUCHERS:chienbinh:27"
+    rewards:
+      xp: 7750
+      commands:
+        - "eco give %player% 640000"
+        - "turtletop add %player% giaohang 58"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_55":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e535.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+59"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+    level_required: 32
+    wait_time_seconds: 6389
+    items:
+      - "VOUCHERS:lua2:16"
+    rewards:
+      xp: 7300
+      commands:
+        - "eco give %player% 535000"
+        - "turtletop add %player% giaohang 59"
+        - "crates key give %player% cratesskey 2"
+  "kynang_task_56":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e570.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7550 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+60"
+    level_required: 32
+    wait_time_seconds: 6567
+    items:
+      - "VOUCHERS:bom:19"
+    rewards:
+      xp: 7550
+      commands:
+        - "eco give %player% 570000"
+        - "turtletop add %player% giaohang 60"
+  "kynang_task_57":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e715.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+61"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 32
+    wait_time_seconds: 6747
+    items:
+      - "VOUCHERS:nhamthach:33"
+    rewards:
+      xp: 8350
+      commands:
+        - "eco give %player% 715000"
+        - "turtletop add %player% giaohang 61"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_58":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e600.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7850 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+62"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+    level_required: 32
+    wait_time_seconds: 6929
+    items:
+      - "VOUCHERS:lua2:21"
+    rewards:
+      xp: 7850
+      commands:
+        - "eco give %player% 600000"
+        - "turtletop add %player% giaohang 62"
+        - "crates key give %player% cratesakey 1"
+  "kynang_task_59":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e535.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7600 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+63"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+    level_required: 32
+    wait_time_seconds: 7113
+    items:
+      - "VOUCHERS:bang1:14"
+    rewards:
+      xp: 7600
+      commands:
+        - "eco give %player% 535000"
+        - "turtletop add %player% giaohang 63"
+        - "crates key give %player% cratesakey 2"
+  "kynang_task_60":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e900.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+9500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+64"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 34
+    wait_time_seconds: 7299
+    items:
+      - "VOUCHERS:bang1:30"
+      - "VOUCHERS:bom:20"
+    rewards:
+      xp: 9500
+      commands:
+        - "eco give %player% 900000"
+        - "turtletop add %player% giaohang 64"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_61":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e755.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8850 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+64"
+    level_required: 34
+    wait_time_seconds: 7486
+    items:
+      - "VOUCHERS:bang2:19"
+      - "VOUCHERS:lua2:16"
+    rewards:
+      xp: 8850
+      commands:
+        - "eco give %player% 755000"
+        - "turtletop add %player% giaohang 64"
+  "kynang_task_62":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e560.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+7950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+65"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 34
+    wait_time_seconds: 7676
+    items:
+      - "VOUCHERS:lua1:15"
+    rewards:
+      xp: 7950
+      commands:
+        - "eco give %player% 560000"
+        - "turtletop add %player% giaohang 65"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_63":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.025.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+66"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 34
+    wait_time_seconds: 7867
+    items:
+      - "VOUCHERS:bom:25"
+      - "VOUCHERS:nhamthach:36"
+    rewards:
+      xp: 10350
+      commands:
+        - "eco give %player% 1025000"
+        - "turtletop add %player% giaohang 66"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_64":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e630.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+67"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 34
+    wait_time_seconds: 8060
+    items:
+      - "VOUCHERS:lua1:21"
+    rewards:
+      xp: 8450
+      commands:
+        - "eco give %player% 630000"
+        - "turtletop add %player% giaohang 67"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "kynang_task_65":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e875.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+9750 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+68"
+    level_required: 36
+    wait_time_seconds: 8255
+    items:
+      - "VOUCHERS:bang2:24"
+      - "VOUCHERS:lua2:21"
+    rewards:
+      xp: 9750
+      commands:
+        - "eco give %player% 875000"
+        - "turtletop add %player% giaohang 68"
+  "kynang_task_66":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.040.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10650 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+69"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+    level_required: 36
+    wait_time_seconds: 8452
+    items:
+      - "VOUCHERS:lua2:26"
+      - "VOUCHERS:bom:35"
+    rewards:
+      xp: 10650
+      commands:
+        - "eco give %player% 1040000"
+        - "turtletop add %player% giaohang 69"
+        - "crates key give %player% cratesakey 2"
+  "kynang_task_67":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e605.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8550 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+70"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+    level_required: 36
+    wait_time_seconds: 8650
+    items:
+      - "VOUCHERS:bang2:17"
+    rewards:
+      xp: 8550
+      commands:
+        - "eco give %player% 605000"
+        - "turtletop add %player% giaohang 70"
+        - "crates key give %player% cratesskey 2"
+  "kynang_task_68":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e680.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+9000 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+71"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 36
+    wait_time_seconds: 8850
+    items:
+      - "VOUCHERS:bang2:24"
+    rewards:
+      xp: 9000
+      commands:
+        - "eco give %player% 680000"
+        - "turtletop add %player% giaohang 71"
+        - "crates key give %player% cratesskey 1"
+  "kynang_task_69":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e935.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+72"
+    level_required: 36
+    wait_time_seconds: 9053
+    items:
+      - "VOUCHERS:nhamthach:26"
+      - "VOUCHERS:bom:23"
+    rewards:
+      xp: 10350
+      commands:
+        - "eco give %player% 935000"
+        - "turtletop add %player% giaohang 72"
+  "kynang_task_70":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e640.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+8950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+73"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 38
+    wait_time_seconds: 9256
+    items:
+      - "VOUCHERS:bang1:19"
+    rewards:
+      xp: 8950
+      commands:
+        - "eco give %player% 640000"
+        - "turtletop add %player% giaohang 73"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_71":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e725.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+9450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+73"
+    level_required: 38
+    wait_time_seconds: 9462
+    items:
+      - "VOUCHERS:chienbinh:27"
+    rewards:
+      xp: 9450
+      commands:
+        - "eco give %player% 725000"
+        - "turtletop add %player% giaohang 73"
+  "kynang_task_72":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e920.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+74"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 38
+    wait_time_seconds: 9669
+    items:
+      - "VOUCHERS:bang2:23"
+      - "VOUCHERS:chienbinh:23"
+    rewards:
+      xp: 10500
+      commands:
+        - "eco give %player% 920000"
+        - "turtletop add %player% giaohang 74"
+        - "crates key give %player% cratesskey 1"
+  "kynang_task_73":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.165.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11800 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+75"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 38
+    wait_time_seconds: 9878
+    items:
+      - "VOUCHERS:bang2:33"
+      - "VOUCHERS:lua2:37"
+    rewards:
+      xp: 11800
+      commands:
+        - "eco give %player% 1165000"
+        - "turtletop add %player% giaohang 75"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_74":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.010.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11100 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+76"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 38
+    wait_time_seconds: 10089
+    items:
+      - "VOUCHERS:bang2:32"
+      - "VOUCHERS:lua2:22"
+    rewards:
+      xp: 11100
+      commands:
+        - "eco give %player% 1010000"
+        - "turtletop add %player% giaohang 76"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_75":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.175.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12000 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+77"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 40
+    wait_time_seconds: 10302
+    items:
+      - "VOUCHERS:nhamthach:29"
+      - "VOUCHERS:chienbinh:41"
+    rewards:
+      xp: 12000
+      commands:
+        - "eco give %player% 1175000"
+        - "turtletop add %player% giaohang 77"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_76":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e820.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+78"
+    level_required: 40
+    wait_time_seconds: 10516
+    items:
+      - "VOUCHERS:lua2:34"
+    rewards:
+      xp: 10300
+      commands:
+        - "eco give %player% 820000"
+        - "turtletop add %player% giaohang 78"
+  "kynang_task_77":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e875.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10650 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+79"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 40
+    wait_time_seconds: 10732
+    items:
+      - "VOUCHERS:lua2:39"
+    rewards:
+      xp: 10650
+      commands:
+        - "eco give %player% 875000"
+        - "turtletop add %player% giaohang 79"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_78":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e820.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10450 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+80"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+    level_required: 40
+    wait_time_seconds: 10950
+    items:
+      - "VOUCHERS:chienbinh:33"
+    rewards:
+      xp: 10450
+      commands:
+        - "eco give %player% 820000"
+        - "turtletop add %player% giaohang 80"
+        - "crates key give %player% cratesakey 1"
+  "kynang_task_79":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.265.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12750 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+81"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+    level_required: 40
+    wait_time_seconds: 11169
+    items:
+      - "VOUCHERS:nhamthach:39"
+      - "VOUCHERS:bang2:38"
+    rewards:
+      xp: 12750
+      commands:
+        - "eco give %player% 1265000"
+        - "turtletop add %player% giaohang 81"
+        - "crates key give %player% cratesakey 2"
+  "kynang_task_80":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e760.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+82"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 42
+    wait_time_seconds: 11390
+    items:
+      - "VOUCHERS:chienbinh:26"
+    rewards:
+      xp: 10300
+      commands:
+        - "eco give %player% 760000"
+        - "turtletop add %player% giaohang 82"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_81":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.345.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+13300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+82"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 42
+    wait_time_seconds: 11612
+    items:
+      - "VOUCHERS:nhamthach:39"
+      - "VOUCHERS:lua2:45"
+    rewards:
+      xp: 13300
+      commands:
+        - "eco give %player% 1345000"
+        - "turtletop add %player% giaohang 82"
+        - "crates key give %player% cratesskey 1"
+  "kynang_task_82":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e870.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11000 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+83"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 42
+    wait_time_seconds: 11837
+    items:
+      - "VOUCHERS:nhamthach:36"
+    rewards:
+      xp: 11000
+      commands:
+        - "eco give %player% 870000"
+        - "turtletop add %player% giaohang 83"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_83":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e765.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10550 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+84"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 42
+    wait_time_seconds: 12063
+    items:
+      - "VOUCHERS:chienbinh:25"
+    rewards:
+      xp: 10550
+      commands:
+        - "eco give %player% 765000"
+        - "turtletop add %player% giaohang 84"
+        - "crates key give %player% cratesskey 1"
+  "kynang_task_84":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e750.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10550 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+85"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 42
+    wait_time_seconds: 12290
+    items:
+      - "VOUCHERS:chienbinh:23"
+    rewards:
+      xp: 10550
+      commands:
+        - "eco give %player% 750000"
+        - "turtletop add %player% giaohang 85"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_85":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.445.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+14100 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+86"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 44
+    wait_time_seconds: 12519
+    items:
+      - "VOUCHERS:lua2:47"
+      - "VOUCHERS:nhamthach:45"
+    rewards:
+      xp: 14100
+      commands:
+        - "eco give %player% 1445000"
+        - "turtletop add %player% giaohang 86"
+        - "crates key give %player% cratesskey 1"
+  "kynang_task_86":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e870.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+87"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 44
+    wait_time_seconds: 12750
+    items:
+      - "VOUCHERS:lua2:34"
+    rewards:
+      xp: 11300
+      commands:
+        - "eco give %player% 870000"
+        - "turtletop add %player% giaohang 87"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_87":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e755.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10800 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+88"
+    level_required: 44
+    wait_time_seconds: 12983
+    items:
+      - "VOUCHERS:nhamthach:22"
+    rewards:
+      xp: 10800
+      commands:
+        - "eco give %player% 755000"
+        - "turtletop add %player% giaohang 88"
+  "kynang_task_88":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e750.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+10850 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+89"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 44
+    wait_time_seconds: 13217
+    items:
+      - "VOUCHERS:bang2:21"
+    rewards:
+      xp: 10850
+      commands:
+        - "eco give %player% 750000"
+        - "turtletop add %player% giaohang 89"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_89":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e775.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11050 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+90"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 44
+    wait_time_seconds: 13452
+    items:
+      - "VOUCHERS:lua2:23"
+    rewards:
+      xp: 11050
+      commands:
+        - "eco give %player% 775000"
+        - "turtletop add %player% giaohang 90"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_90":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e930.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11900 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+91"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+    level_required: 46
+    wait_time_seconds: 13690
+    items:
+      - "VOUCHERS:lua2:38"
+    rewards:
+      xp: 11900
+      commands:
+        - "eco give %player% 930000"
+        - "turtletop add %player% giaohang 91"
+        - "crates key give %player% cratesakey 2"
+  "kynang_task_91":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e985.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12250 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+91"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 46
+    wait_time_seconds: 13929
+    items:
+      - "VOUCHERS:nhamthach:43"
+    rewards:
+      xp: 12250
+      commands:
+        - "eco give %player% 985000"
+        - "turtletop add %player% giaohang 91"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_92":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.460.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+14700 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+92"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 46
+    wait_time_seconds: 14169
+    items:
+      - "VOUCHERS:lua2:46"
+      - "VOUCHERS:nhamthach:44"
+    rewards:
+      xp: 14700
+      commands:
+        - "eco give %player% 1460000"
+        - "turtletop add %player% giaohang 92"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_93":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e965.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12300 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+93"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 46
+    wait_time_seconds: 14411
+    items:
+      - "VOUCHERS:nhamthach:40"
+    rewards:
+      xp: 12300
+      commands:
+        - "eco give %player% 965000"
+        - "turtletop add %player% giaohang 93"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_94":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e880.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+11950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+94"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 46
+    wait_time_seconds: 14655
+    items:
+      - "VOUCHERS:bang2:31"
+    rewards:
+      xp: 11950
+      commands:
+        - "eco give %player% 880000"
+        - "turtletop add %player% giaohang 94"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_95":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e925.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12250 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+95"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 48
+    wait_time_seconds: 14900
+    items:
+      - "VOUCHERS:lua2:35"
+    rewards:
+      xp: 12250
+      commands:
+        - "eco give %player% 925000"
+        - "turtletop add %player% giaohang 95"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_96":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.010.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12750 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+96"
+    level_required: 48
+    wait_time_seconds: 15146
+    items:
+      - "VOUCHERS:nhamthach:43"
+    rewards:
+      xp: 12750
+      commands:
+        - "eco give %player% 1010000"
+        - "turtletop add %player% giaohang 96"
+  "kynang_task_97":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e875.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+12150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+97"
+    level_required: 48
+    wait_time_seconds: 15395
+    items:
+      - "VOUCHERS:nhamthach:29"
+    rewards:
+      xp: 12150
+      commands:
+        - "eco give %player% 875000"
+        - "turtletop add %player% giaohang 97"
+  "kynang_task_98":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.220.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+13950 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+98"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 48
+    wait_time_seconds: 15644
+    items:
+      - "VOUCHERS:lua2:28"
+      - "VOUCHERS:chienbinh:35"
+    rewards:
+      xp: 13950
+      commands:
+        - "eco give %player% 1220000"
+        - "turtletop add %player% giaohang 98"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "kynang_task_99":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.285.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+14350 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+99"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 48
+    wait_time_seconds: 15896
+    items:
+      - "VOUCHERS:lua2:38"
+      - "VOUCHERS:nhamthach:31"
+    rewards:
+      xp: 14350
+      commands:
+        - "eco give %player% 1285000"
+        - "turtletop add %player% giaohang 99"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "kynang_task_100":
+    category: "kynang"
+    name: "&d&l[✦] &fThu Thập: &dBí Kíp Kỹ Năng"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua các loại bí kíp."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.040.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+13200 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+100"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 50
+    wait_time_seconds: 16148
+    items:
+      - "VOUCHERS:lua2:44"
+    rewards:
+      xp: 13200
+      commands:
+        - "eco give %player% 1040000"
+        - "turtletop add %player% giaohang 100"
+        - "crates key give %player% cratesskey 1"

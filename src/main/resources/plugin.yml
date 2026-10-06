@@ -1,0 +1,11 @@
+name: GMDelivery
+version: ${version}
+main: gmstudio.gmdelivery.GMDelivery
+api-version: '1.21'
+authors: [Gemix]
+depend: [GMCore]
+softdepend: [MMOItems, Vouchers]
+commands:
+  giaohang:
+    description: Mở menu giao hàng
+    aliases: [gh]

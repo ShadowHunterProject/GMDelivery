@@ -1,0 +1,2804 @@
+# Các task ore tự động tạo
+tasks:
+  "ore_task_1":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e29.375 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+57 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+10"
+    level_required: 1
+    wait_time_seconds: 132
+    items:
+      - "MMOITEMS:ORE:THAN_I:275"
+    rewards:
+      xp: 57
+      commands:
+        - "eco give %player% 29375"
+        - "turtletop add %player% giaohang 10"
+  "ore_task_2":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e31.920 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+61 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+11"
+    level_required: 1
+    wait_time_seconds: 156
+    items:
+      - "MMOITEMS:ORE:THAN_I:184"
+    rewards:
+      xp: 61
+      commands:
+        - "eco give %player% 31920"
+        - "turtletop add %player% giaohang 11"
+  "ore_task_3":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e35.110 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+67 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+12"
+    level_required: 1
+    wait_time_seconds: 189
+    items:
+      - "MMOITEMS:ORE:THAN_I:222"
+    rewards:
+      xp: 67
+      commands:
+        - "eco give %player% 35110"
+        - "turtletop add %player% giaohang 12"
+  "ore_task_4":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e39.205 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+74 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+13"
+    level_required: 1
+    wait_time_seconds: 230
+    items:
+      - "MMOITEMS:ORE:THAN_I:441"
+    rewards:
+      xp: 74
+      commands:
+        - "eco give %player% 39205"
+        - "turtletop add %player% giaohang 13"
+  "ore_task_5":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e42.555 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+80 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+13"
+    level_required: 1
+    wait_time_seconds: 277
+    items:
+      - "MMOITEMS:ORE:THAN_I:511"
+    rewards:
+      xp: 80
+      commands:
+        - "eco give %player% 42555"
+        - "turtletop add %player% giaohang 13"
+  "ore_task_6":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e47.125 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+88 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+14"
+    level_required: 1
+    wait_time_seconds: 330
+    items:
+      - "MMOITEMS:ORE:THAN_II:225"
+      - "MMOITEMS:ORE:THAN_I:375"
+    rewards:
+      xp: 88
+      commands:
+        - "eco give %player% 47125"
+        - "turtletop add %player% giaohang 14"
+  "ore_task_7":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e48.065 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+89 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+15"
+    level_required: 1
+    wait_time_seconds: 389
+    items:
+      - "MMOITEMS:ORE:THAN_I:413"
+    rewards:
+      xp: 89
+      commands:
+        - "eco give %player% 48065"
+        - "turtletop add %player% giaohang 15"
+  "ore_task_8":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e51.250 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+94 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+16"
+    level_required: 1
+    wait_time_seconds: 454
+    items:
+      - "MMOITEMS:ORE:THAN_II:225"
+    rewards:
+      xp: 94
+      commands:
+        - "eco give %player% 51250"
+        - "turtletop add %player% giaohang 16"
+  "ore_task_9":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e55.295 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+101 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+16"
+    level_required: 1
+    wait_time_seconds: 523
+    items:
+      - "MMOITEMS:ORE:THAN_I:659"
+    rewards:
+      xp: 101
+      commands:
+        - "eco give %player% 55295"
+        - "turtletop add %player% giaohang 16"
+  "ore_task_10":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e61.755 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+113 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+17"
+    level_required: 1
+    wait_time_seconds: 597
+    items:
+      - "MMOITEMS:ORE:THAN_I:505"
+      - "MMOITEMS:ORE:THAN_II:423"
+    rewards:
+      xp: 113
+      commands:
+        - "eco give %player% 61755"
+        - "turtletop add %player% giaohang 17"
+  "ore_task_11":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e63.425 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+115 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+18"
+    level_required: 1
+    wait_time_seconds: 676
+    items:
+      - "MMOITEMS:ORE:THAN_II:296"
+      - "MMOITEMS:ORE:THAN_I:493"
+    rewards:
+      xp: 115
+      commands:
+        - "eco give %player% 63425"
+        - "turtletop add %player% giaohang 18"
+  "ore_task_12":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e64.415 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+116 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+19"
+    level_required: 1
+    wait_time_seconds: 759
+    items:
+      - "MMOITEMS:ORE:THAN_I:683"
+    rewards:
+      xp: 116
+      commands:
+        - "eco give %player% 64415"
+        - "turtletop add %player% giaohang 19"
+  "ore_task_13":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e75.000 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+137 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+19"
+    level_required: 1
+    wait_time_seconds: 846
+    items:
+      - "MMOITEMS:ORE:THAN_I:1007"
+      - "MMOITEMS:ORE:THAN_III:159"
+      - "MMOITEMS:ORE:THAN_II:358"
+    rewards:
+      xp: 137
+      commands:
+        - "eco give %player% 75000"
+        - "turtletop add %player% giaohang 19"
+  "ore_task_14":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e75.795 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+137 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+20"
+    level_required: 1
+    wait_time_seconds: 938
+    items:
+      - "MMOITEMS:ORE:THAN_III:164"
+      - "MMOITEMS:ORE:THAN_I:571"
+      - "MMOITEMS:ORE:THAN_II:348"
+    rewards:
+      xp: 137
+      commands:
+        - "eco give %player% 75795"
+        - "turtletop add %player% giaohang 20"
+  "ore_task_15":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e82.650 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+150 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+21"
+    level_required: 1
+    wait_time_seconds: 1033
+    items:
+      - "MMOITEMS:ORE:THAN_II:545"
+      - "MMOITEMS:ORE:THAN_I:1026"
+      - "MMOITEMS:ORE:THAN_III:138"
+    rewards:
+      xp: 150
+      commands:
+        - "eco give %player% 82650"
+        - "turtletop add %player% giaohang 21"
+  "ore_task_16":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e82.355 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+148 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+22"
+    level_required: 1
+    wait_time_seconds: 1133
+    items:
+      - "MMOITEMS:ORE:THAN_III:285"
+      - "MMOITEMS:ORE:THAN_II:508"
+    rewards:
+      xp: 148
+      commands:
+        - "eco give %player% 82355"
+        - "turtletop add %player% giaohang 22"
+  "ore_task_17":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e84.365 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+151 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+22"
+    level_required: 1
+    wait_time_seconds: 1236
+    items:
+      - "MMOITEMS:ORE:THAN_I:995"
+      - "MMOITEMS:ORE:THAN_III:226"
+    rewards:
+      xp: 151
+      commands:
+        - "eco give %player% 84365"
+        - "turtletop add %player% giaohang 22"
+  "ore_task_18":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e94.115 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+170 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+23"
+    level_required: 1
+    wait_time_seconds: 1343
+    items:
+      - "MMOITEMS:ORE:THAN_I:1074"
+      - "MMOITEMS:ORE:THAN_III:245"
+      - "MMOITEMS:ORE:THAN_II:607"
+    rewards:
+      xp: 170
+      commands:
+        - "eco give %player% 94115"
+        - "turtletop add %player% giaohang 23"
+  "ore_task_19":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e93.740 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+168 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+24"
+    level_required: 1
+    wait_time_seconds: 1454
+    items:
+      - "MMOITEMS:ORE:THAN_III:330"
+      - "MMOITEMS:ORE:THAN_II:679"
+    rewards:
+      xp: 168
+      commands:
+        - "eco give %player% 93740"
+        - "turtletop add %player% giaohang 24"
+  "ore_task_20":
+    category: "ore"
+    name: "&8&l[✦] &fHợp đồng: &8Rank E"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e96.150 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+172 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+25"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 1
+    wait_time_seconds: 1568
+    items:
+      - "MMOITEMS:ORE:THAN_II:468"
+      - "MMOITEMS:ORE:THAN_III:181"
+      - "MMOITEMS:ORE:THAN_I:751"
+    rewards:
+      xp: 172
+      commands:
+        - "eco give %player% 96150"
+        - "turtletop add %player% giaohang 25"
+        - "crates key give %player% cratesckey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_21":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e140.980 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+182 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+25"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 1685
+    items:
+      - "MMOITEMS:ORE:DONG_I:148"
+    rewards:
+      xp: 182
+      commands:
+        - "eco give %player% 140980"
+        - "turtletop add %player% giaohang 25"
+        - "crates key give %player% cratesckey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_22":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e146.110 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+189 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+26"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+    level_required: 6
+    wait_time_seconds: 1806
+    items:
+      - "MMOITEMS:ORE:DONG_I:211"
+    rewards:
+      xp: 189
+      commands:
+        - "eco give %player% 146110"
+        - "turtletop add %player% giaohang 26"
+        - "crates key give %player% cratesonlinekey 4"
+  "ore_task_23":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e150.780 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+194 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+27"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 1931
+    items:
+      - "MMOITEMS:ORE:DONG_I:228"
+    rewards:
+      xp: 194
+      commands:
+        - "eco give %player% 150780"
+        - "turtletop add %player% giaohang 27"
+        - "crates key give %player% cratesonlinekey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_24":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e156.830 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+202 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+28"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 2058
+    items:
+      - "MMOITEMS:ORE:DONG_I:383"
+    rewards:
+      xp: 202
+      commands:
+        - "eco give %player% 156830"
+        - "turtletop add %player% giaohang 28"
+        - "crates key give %player% cratesckey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_25":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e161.740 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+208 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+28"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 2189
+    items:
+      - "MMOITEMS:ORE:DONG_I:424"
+    rewards:
+      xp: 208
+      commands:
+        - "eco give %player% 161740"
+        - "turtletop add %player% giaohang 28"
+        - "crates key give %player% cratesonlinekey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_26":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e167.440 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+215 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+29"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+    level_required: 6
+    wait_time_seconds: 2323
+    items:
+      - "MMOITEMS:ORE:DONG_II:272"
+    rewards:
+      xp: 215
+      commands:
+        - "eco give %player% 167440"
+        - "turtletop add %player% giaohang 29"
+        - "crates key give %player% cratesckey 2"
+  "ore_task_27":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e174.300 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+225 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+30"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 2460
+    items:
+      - "MMOITEMS:ORE:DONG_I:326"
+      - "MMOITEMS:ORE:DONG_II:227"
+    rewards:
+      xp: 225
+      commands:
+        - "eco give %player% 174300"
+        - "turtletop add %player% giaohang 30"
+        - "crates key give %player% cratesonlinekey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_28":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e179.390 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+231 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+31"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 2601
+    items:
+      - "MMOITEMS:ORE:DONG_II:171"
+      - "MMOITEMS:ORE:DONG_I:497"
+    rewards:
+      xp: 231
+      commands:
+        - "eco give %player% 179390"
+        - "turtletop add %player% giaohang 31"
+        - "crates key give %player% cratesckey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_29":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e187.330 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+243 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+31"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 2744
+    items:
+      - "MMOITEMS:ORE:DONG_II:368"
+      - "MMOITEMS:ORE:DONG_I:447"
+    rewards:
+      xp: 243
+      commands:
+        - "eco give %player% 187330"
+        - "turtletop add %player% giaohang 31"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_30":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e194.270 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+253 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+32"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+    level_required: 6
+    wait_time_seconds: 2890
+    items:
+      - "MMOITEMS:ORE:DONG_I:721"
+      - "MMOITEMS:ORE:DONG_II:353"
+    rewards:
+      xp: 253
+      commands:
+        - "eco give %player% 194270"
+        - "turtletop add %player% giaohang 32"
+        - "crates key give %player% cratesckey 2"
+  "ore_task_31":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e192.480 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+245 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+33"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx5"
+    level_required: 6
+    wait_time_seconds: 3039
+    items:
+      - "MMOITEMS:ORE:DONG_II:399"
+    rewards:
+      xp: 245
+      commands:
+        - "eco give %player% 192480"
+        - "turtletop add %player% giaohang 33"
+        - "crates key give %player% cratesckey 5"
+  "ore_task_32":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e204.170 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+265 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+34"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+    level_required: 6
+    wait_time_seconds: 3192
+    items:
+      - "MMOITEMS:ORE:DONG_II:378"
+      - "MMOITEMS:ORE:DONG_I:761"
+    rewards:
+      xp: 265
+      commands:
+        - "eco give %player% 204170"
+        - "turtletop add %player% giaohang 34"
+        - "crates key give %player% cratesonlinekey 1"
+  "ore_task_33":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e216.820 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+286 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+34"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 3347
+    items:
+      - "MMOITEMS:ORE:DONG_I:921"
+      - "MMOITEMS:ORE:DONG_III:167"
+      - "MMOITEMS:ORE:DONG_II:455"
+    rewards:
+      xp: 286
+      commands:
+        - "eco give %player% 216820"
+        - "turtletop add %player% giaohang 34"
+        - "crates key give %player% cratesckey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_34":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e210.130 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+269 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+35"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx5"
+    level_required: 6
+    wait_time_seconds: 3504
+    items:
+      - "MMOITEMS:ORE:DONG_I:580"
+      - "MMOITEMS:ORE:DONG_III:211"
+    rewards:
+      xp: 269
+      commands:
+        - "eco give %player% 210130"
+        - "turtletop add %player% giaohang 35"
+        - "crates key give %player% cratesckey 5"
+  "ore_task_35":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e219.580 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+284 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+36"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 3665
+    items:
+      - "MMOITEMS:ORE:DONG_II:323"
+      - "MMOITEMS:ORE:DONG_I:1062"
+    rewards:
+      xp: 284
+      commands:
+        - "eco give %player% 219580"
+        - "turtletop add %player% giaohang 36"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_36":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e226.700 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+294 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+37"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 3829
+    items:
+      - "MMOITEMS:ORE:DONG_III:127"
+      - "MMOITEMS:ORE:DONG_I:957"
+      - "MMOITEMS:ORE:DONG_II:316"
+    rewards:
+      xp: 294
+      commands:
+        - "eco give %player% 226700"
+        - "turtletop add %player% giaohang 37"
+        - "crates key give %player% cratesonlinekey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_37":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e230.280 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+297 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+37"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+    level_required: 6
+    wait_time_seconds: 3995
+    items:
+      - "MMOITEMS:ORE:DONG_II:374"
+      - "MMOITEMS:ORE:DONG_I:1130"
+    rewards:
+      xp: 297
+      commands:
+        - "eco give %player% 230280"
+        - "turtletop add %player% giaohang 37"
+        - "crates key give %player% cratesckey 3"
+  "ore_task_38":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e235.570 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+304 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+38"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+    level_required: 6
+    wait_time_seconds: 4164
+    items:
+      - "MMOITEMS:ORE:DONG_I:751"
+      - "MMOITEMS:ORE:DONG_III:156"
+      - "MMOITEMS:ORE:DONG_II:369"
+    rewards:
+      xp: 304
+      commands:
+        - "eco give %player% 235570"
+        - "turtletop add %player% giaohang 38"
+        - "crates key give %player% cratesckey 3"
+  "ore_task_39":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e245.870 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+320 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+39"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 6
+    wait_time_seconds: 4335
+    items:
+      - "MMOITEMS:ORE:DONG_II:521"
+      - "MMOITEMS:ORE:DONG_III:201"
+      - "MMOITEMS:ORE:DONG_I:892"
+    rewards:
+      xp: 320
+      commands:
+        - "eco give %player% 245870"
+        - "turtletop add %player% giaohang 39"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_40":
+    category: "ore"
+    name: "&6&l[✦] &fHợp đồng: &6Rank D"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e249.940 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+324 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+40"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+    level_required: 6
+    wait_time_seconds: 4510
+    items:
+      - "MMOITEMS:ORE:DONG_III:219"
+      - "MMOITEMS:ORE:DONG_II:378"
+      - "MMOITEMS:ORE:DONG_I:1081"
+    rewards:
+      xp: 324
+      commands:
+        - "eco give %player% 249940"
+        - "turtletop add %player% giaohang 40"
+        - "crates key give %player% cratesckey 4"
+  "ore_task_41":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e313.700 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+310 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+40"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 4687
+    items:
+      - "MMOITEMS:ORE:SAT_I:180"
+    rewards:
+      xp: 310
+      commands:
+        - "eco give %player% 313700"
+        - "turtletop add %player% giaohang 40"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_42":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e320.195 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+316 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+41"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 4866
+    items:
+      - "MMOITEMS:ORE:SAT_I:213"
+    rewards:
+      xp: 316
+      commands:
+        - "eco give %player% 320195"
+        - "turtletop add %player% giaohang 41"
+        - "crates key give %player% cratesckey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_43":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e326.075 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+321 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+42"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 5048
+    items:
+      - "MMOITEMS:ORE:SAT_I:205"
+    rewards:
+      xp: 321
+      commands:
+        - "eco give %player% 326075"
+        - "turtletop add %player% giaohang 42"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_44":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e334.040 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+330 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+43"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+    level_required: 11
+    wait_time_seconds: 5233
+    items:
+      - "MMOITEMS:ORE:SAT_I:336"
+    rewards:
+      xp: 330
+      commands:
+        - "eco give %player% 334040"
+        - "turtletop add %player% giaohang 43"
+        - "crates key give %player% cratesonlinekey 5"
+  "ore_task_45":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e338.975 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+332 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+43"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 5420
+    items:
+      - "MMOITEMS:ORE:SAT_I:265"
+    rewards:
+      xp: 332
+      commands:
+        - "eco give %player% 338975"
+        - "turtletop add %player% giaohang 43"
+        - "crates key give %player% cratesckey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_46":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e353.480 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+354 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+44"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx2"
+    level_required: 11
+    wait_time_seconds: 5610
+    items:
+      - "MMOITEMS:ORE:SAT_II:201"
+      - "MMOITEMS:ORE:SAT_I:430"
+    rewards:
+      xp: 354
+      commands:
+        - "eco give %player% 353480"
+        - "turtletop add %player% giaohang 44"
+        - "crates key give %player% cratesonlinekey 2"
+  "ore_task_47":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e358.640 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+358 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+45"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 5802
+    items:
+      - "MMOITEMS:ORE:SAT_I:394"
+      - "MMOITEMS:ORE:SAT_II:191"
+    rewards:
+      xp: 358
+      commands:
+        - "eco give %player% 358640"
+        - "turtletop add %player% giaohang 45"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_48":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e364.700 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+363 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+46"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 5997
+    items:
+      - "MMOITEMS:ORE:SAT_II:230"
+      - "MMOITEMS:ORE:SAT_I:320"
+    rewards:
+      xp: 363
+      commands:
+        - "eco give %player% 364700"
+        - "turtletop add %player% giaohang 46"
+        - "crates key give %player% cratesonlinekey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_49":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e364.250 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+355 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+46"
+    level_required: 11
+    wait_time_seconds: 6194
+    items:
+      - "MMOITEMS:ORE:SAT_II:175"
+    rewards:
+      xp: 355
+      commands:
+        - "eco give %player% 364250"
+        - "turtletop add %player% giaohang 46"
+  "ore_task_50":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e378.950 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+377 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+47"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 6393
+    items:
+      - "MMOITEMS:ORE:SAT_I:540"
+      - "MMOITEMS:ORE:SAT_II:195"
+    rewards:
+      xp: 377
+      commands:
+        - "eco give %player% 378950"
+        - "turtletop add %player% giaohang 47"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_51":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e388.070 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+389 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+48"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 6595
+    items:
+      - "MMOITEMS:ORE:SAT_II:269"
+      - "MMOITEMS:ORE:SAT_I:600"
+    rewards:
+      xp: 389
+      commands:
+        - "eco give %player% 388070"
+        - "turtletop add %player% giaohang 48"
+        - "crates key give %player% cratesckey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_52":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e395.075 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+396 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+49"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 6800
+    items:
+      - "MMOITEMS:ORE:SAT_I:745"
+      - "MMOITEMS:ORE:SAT_II:230"
+    rewards:
+      xp: 396
+      commands:
+        - "eco give %player% 395075"
+        - "turtletop add %player% giaohang 49"
+        - "crates key give %player% cratesckey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_53":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e416.240 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+431 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+49"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 7006
+    items:
+      - "MMOITEMS:ORE:SAT_II:443"
+      - "MMOITEMS:ORE:SAT_I:757"
+      - "MMOITEMS:ORE:SAT_III:191"
+    rewards:
+      xp: 431
+      commands:
+        - "eco give %player% 416240"
+        - "turtletop add %player% giaohang 49"
+        - "crates key give %player% cratesckey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_54":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e411.065 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+414 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+50"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 7215
+    items:
+      - "MMOITEMS:ORE:SAT_I:647"
+      - "MMOITEMS:ORE:SAT_II:412"
+    rewards:
+      xp: 414
+      commands:
+        - "eco give %player% 411065"
+        - "turtletop add %player% giaohang 50"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_55":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e426.020 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+437 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+51"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+    level_required: 11
+    wait_time_seconds: 7427
+    items:
+      - "MMOITEMS:ORE:SAT_III:200"
+      - "MMOITEMS:ORE:SAT_II:335"
+      - "MMOITEMS:ORE:SAT_I:798"
+    rewards:
+      xp: 437
+      commands:
+        - "eco give %player% 426020"
+        - "turtletop add %player% giaohang 51"
+        - "crates key give %player% cratesckey 4"
+  "ore_task_56":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e424.400 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+426 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+52"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(1 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 7641
+    items:
+      - "MMOITEMS:ORE:SAT_I:858"
+      - "MMOITEMS:ORE:SAT_III:234"
+    rewards:
+      xp: 426
+      commands:
+        - "eco give %player% 424400"
+        - "turtletop add %player% giaohang 52"
+        - "crates key give %player% cratesonlinekey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-1h"
+  "ore_task_57":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e421.145 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+413 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+52"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx2"
+    level_required: 11
+    wait_time_seconds: 7857
+    items:
+      - "MMOITEMS:ORE:SAT_III:121"
+      - "MMOITEMS:ORE:SAT_II:290"
+    rewards:
+      xp: 413
+      commands:
+        - "eco give %player% 421145"
+        - "turtletop add %player% giaohang 52"
+        - "crates key give %player% cratesonlinekey 2"
+  "ore_task_58":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e432.290 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+428 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+53"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 8075
+    items:
+      - "MMOITEMS:ORE:SAT_III:182"
+      - "MMOITEMS:ORE:SAT_I:740"
+    rewards:
+      xp: 428
+      commands:
+        - "eco give %player% 432290"
+        - "turtletop add %player% giaohang 53"
+        - "crates key give %player% cratesckey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_59":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e454.415 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+465 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+54"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 11
+    wait_time_seconds: 8296
+    items:
+      - "MMOITEMS:ORE:SAT_III:116"
+      - "MMOITEMS:ORE:SAT_II:527"
+      - "MMOITEMS:ORE:SAT_I:959"
+    rewards:
+      xp: 465
+      commands:
+        - "eco give %player% 454415"
+        - "turtletop add %player% giaohang 54"
+        - "crates key give %player% cratesckey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_60":
+    category: "ore"
+    name: "&7&l[✦] &fHợp đồng: &7Rank C"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e461.915 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+473 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+55"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+    level_required: 11
+    wait_time_seconds: 8518
+    items:
+      - "MMOITEMS:ORE:SAT_I:1198"
+      - "MMOITEMS:ORE:SAT_III:189"
+      - "MMOITEMS:ORE:SAT_II:348"
+    rewards:
+      xp: 473
+      commands:
+        - "eco give %player% 461915"
+        - "turtletop add %player% giaohang 55"
+        - "crates key give %player% cratesckey 4"
+  "ore_task_61":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e545.400 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+435 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+55"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx2"
+    level_required: 16
+    wait_time_seconds: 8744
+    items:
+      - "MMOITEMS:ORE:VANG_I:145"
+    rewards:
+      xp: 435
+      commands:
+        - "eco give %player% 545400"
+        - "turtletop add %player% giaohang 55"
+        - "crates key give %player% cratesonlinekey 2"
+  "ore_task_62":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e554.700 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+444 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+56"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx5"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 8971
+    items:
+      - "MMOITEMS:ORE:VANG_I:235"
+    rewards:
+      xp: 444
+      commands:
+        - "eco give %player% 554700"
+        - "turtletop add %player% giaohang 56"
+        - "crates key give %player% cratesckey 5"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_63":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e562.260 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+449 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+57"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 9200
+    items:
+      - "MMOITEMS:ORE:VANG_I:238"
+    rewards:
+      xp: 449
+      commands:
+        - "eco give %player% 562260"
+        - "turtletop add %player% giaohang 57"
+        - "crates key give %player% cratesckey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_64":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e569.140 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+453 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+58"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 9432
+    items:
+      - "MMOITEMS:ORE:VANG_I:207"
+    rewards:
+      xp: 453
+      commands:
+        - "eco give %player% 569140"
+        - "turtletop add %player% giaohang 58"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_65":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e580.140 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+465 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+58"
+    level_required: 16
+    wait_time_seconds: 9666
+    items:
+      - "MMOITEMS:ORE:VANG_I:382"
+    rewards:
+      xp: 465
+      commands:
+        - "eco give %player% 580140"
+        - "turtletop add %player% giaohang 58"
+  "ore_task_66":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e589.080 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+473 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+59"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx1"
+    level_required: 16
+    wait_time_seconds: 9902
+    items:
+      - "MMOITEMS:ORE:VANG_II:227"
+    rewards:
+      xp: 473
+      commands:
+        - "eco give %player% 589080"
+        - "turtletop add %player% giaohang 59"
+        - "crates key give %player% cratesckey 1"
+  "ore_task_67":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e592.560 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+470 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+60"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 10140
+    items:
+      - "MMOITEMS:ORE:VANG_I:253"
+    rewards:
+      xp: 470
+      commands:
+        - "eco give %player% 592560"
+        - "turtletop add %player% giaohang 60"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_68":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e605.860 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+486 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+61"
+      - "  &8▪ &5✿&d✿ &a&lCHÌA KHÓA &2&lLINH THỂ KHẢM &d✿&5✿ &fx4"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 10381
+    items:
+      - "MMOITEMS:ORE:VANG_II:141"
+      - "MMOITEMS:ORE:VANG_I:261"
+    rewards:
+      xp: 486
+      commands:
+        - "eco give %player% 605860"
+        - "turtletop add %player% giaohang 61"
+        - "crates key give %player% cratesckey 4"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_69":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e612.240 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+489 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+61"
+      - "  &8▪ &f&l⏱&a○&e&l⏱&b&l CHÌA KHÓA &f&lONLINE &e&l⏱&a○&f&l⏱ &fx3"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 10623
+    items:
+      - "MMOITEMS:ORE:VANG_I:487"
+    rewards:
+      xp: 489
+      commands:
+        - "eco give %player% 612240"
+        - "turtletop add %player% giaohang 61"
+        - "crates key give %player% cratesonlinekey 3"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_70":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e622.600 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+500 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+62"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 10868
+    items:
+      - "MMOITEMS:ORE:VANG_II:315"
+    rewards:
+      xp: 500
+      commands:
+        - "eco give %player% 622600"
+        - "turtletop add %player% giaohang 62"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_71":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e638.260 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+521 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+63"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 11114
+    items:
+      - "MMOITEMS:ORE:VANG_II:239"
+      - "MMOITEMS:ORE:VANG_I:560"
+    rewards:
+      xp: 521
+      commands:
+        - "eco give %player% 638260"
+        - "turtletop add %player% giaohang 63"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_72":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e644.940 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+524 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+64"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 11363
+    items:
+      - "MMOITEMS:ORE:VANG_II:308"
+      - "MMOITEMS:ORE:VANG_I:381"
+    rewards:
+      xp: 524
+      commands:
+        - "eco give %player% 644940"
+        - "turtletop add %player% giaohang 64"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_73":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e647.940 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+520 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+64"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 11614
+    items:
+      - "MMOITEMS:ORE:VANG_II:233"
+      - "MMOITEMS:ORE:VANG_III:102"
+    rewards:
+      xp: 520
+      commands:
+        - "eco give %player% 647940"
+        - "turtletop add %player% giaohang 64"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_74":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e659.840 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+534 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+65"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 11867
+    items:
+      - "MMOITEMS:ORE:VANG_I:614"
+      - "MMOITEMS:ORE:VANG_III:126"
+    rewards:
+      xp: 534
+      commands:
+        - "eco give %player% 659840"
+        - "turtletop add %player% giaohang 65"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_75":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e668.140 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+541 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+66"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 12122
+    items:
+      - "MMOITEMS:ORE:VANG_III:164"
+      - "MMOITEMS:ORE:VANG_I:540"
+    rewards:
+      xp: 541
+      commands:
+        - "eco give %player% 668140"
+        - "turtletop add %player% giaohang 66"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_76":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e680.340 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+555 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+67"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 12379
+    items:
+      - "MMOITEMS:ORE:VANG_II:467"
+      - "MMOITEMS:ORE:VANG_III:111"
+    rewards:
+      xp: 555
+      commands:
+        - "eco give %player% 680340"
+        - "turtletop add %player% giaohang 67"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_77":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e688.640 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+562 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+67"
+    level_required: 16
+    wait_time_seconds: 12638
+    items:
+      - "MMOITEMS:ORE:VANG_I:632"
+      - "MMOITEMS:ORE:VANG_III:225"
+    rewards:
+      xp: 562
+      commands:
+        - "eco give %player% 688640"
+        - "turtletop add %player% giaohang 67"
+  "ore_task_78":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e711.820 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+598 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+68"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+    level_required: 16
+    wait_time_seconds: 12900
+    items:
+      - "MMOITEMS:ORE:VANG_II:418"
+      - "MMOITEMS:ORE:VANG_III:222"
+      - "MMOITEMS:ORE:VANG_I:589"
+    rewards:
+      xp: 598
+      commands:
+        - "eco give %player% 711820"
+        - "turtletop add %player% giaohang 68"
+        - "crates key give %player% cratesakey 1"
+  "ore_task_79":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e718.600 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+602 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+69"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 16
+    wait_time_seconds: 13163
+    items:
+      - "MMOITEMS:ORE:VANG_III:275"
+      - "MMOITEMS:ORE:VANG_I:502"
+      - "MMOITEMS:ORE:VANG_II:364"
+    rewards:
+      xp: 602
+      commands:
+        - "eco give %player% 718600"
+        - "turtletop add %player% giaohang 69"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_80":
+    category: "ore"
+    name: "&e&l[✦] &fHợp đồng: &eRank B"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e713.320 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+581 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+70"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+    level_required: 16
+    wait_time_seconds: 13428
+    items:
+      - "MMOITEMS:ORE:VANG_I:918"
+      - "MMOITEMS:ORE:VANG_III:166"
+    rewards:
+      xp: 581
+      commands:
+        - "eco give %player% 713320"
+        - "turtletop add %player% giaohang 70"
+        - "crates key give %player% cratesakey 2"
+  "ore_task_81":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e836.700 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+560 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+70"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(3 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 13695
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:108"
+    rewards:
+      xp: 560
+      commands:
+        - "eco give %player% 836700"
+        - "turtletop add %player% giaohang 70"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-3h"
+  "ore_task_82":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e846.775 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+567 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+71"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 13964
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:151"
+    rewards:
+      xp: 567
+      commands:
+        - "eco give %player% 846775"
+        - "turtletop add %player% giaohang 71"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_83":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e859.075 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+579 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+72"
+    level_required: 21
+    wait_time_seconds: 14235
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:283"
+    rewards:
+      xp: 579
+      commands:
+        - "eco give %player% 859075"
+        - "turtletop add %player% giaohang 72"
+  "ore_task_84":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e868.650 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+585 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+73"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+    level_required: 21
+    wait_time_seconds: 14508
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:306"
+    rewards:
+      xp: 585
+      commands:
+        - "eco give %player% 868650"
+        - "turtletop add %player% giaohang 73"
+        - "crates key give %player% cratesskey 2"
+  "ore_task_85":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e878.125 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+591 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+73"
+    level_required: 21
+    wait_time_seconds: 14783
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:325"
+    rewards:
+      xp: 591
+      commands:
+        - "eco give %player% 878125"
+        - "turtletop add %player% giaohang 73"
+  "ore_task_86":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e885.050 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+592 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+74"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 15060
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_II:121"
+    rewards:
+      xp: 592
+      commands:
+        - "eco give %player% 885050"
+        - "turtletop add %player% giaohang 74"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_87":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e894.900 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+598 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+75"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 15339
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_II:138"
+    rewards:
+      xp: 598
+      commands:
+        - "eco give %player% 894900"
+        - "turtletop add %player% giaohang 75"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_88":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e916.650 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+629 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+76"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+    level_required: 21
+    wait_time_seconds: 15620
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:512"
+      - "MMOITEMS:ORE:KIM_CUONG_II:137"
+    rewards:
+      xp: 629
+      commands:
+        - "eco give %player% 916650"
+        - "turtletop add %player% giaohang 76"
+        - "crates key give %player% cratesskey 2"
+  "ore_task_89":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e926.825 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+636 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+76"
+    level_required: 21
+    wait_time_seconds: 15903
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_II:185"
+      - "MMOITEMS:ORE:KIM_CUONG_I:463"
+    rewards:
+      xp: 636
+      commands:
+        - "eco give %player% 926825"
+        - "turtletop add %player% giaohang 76"
+  "ore_task_90":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e935.750 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+641 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+77"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 16188
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:362"
+      - "MMOITEMS:ORE:KIM_CUONG_II:234"
+    rewards:
+      xp: 641
+      commands:
+        - "eco give %player% 935750"
+        - "turtletop add %player% giaohang 77"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_91":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e935.725 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+628 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+78"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 16474
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:469"
+    rewards:
+      xp: 628
+      commands:
+        - "eco give %player% 935725"
+        - "turtletop add %player% giaohang 78"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_92":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e964.250 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+672 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+79"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 16763
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:570"
+      - "MMOITEMS:ORE:KIM_CUONG_II:340"
+    rewards:
+      xp: 672
+      commands:
+        - "eco give %player% 964250"
+        - "turtletop add %player% giaohang 79"
+        - "crates key give %player% cratesakey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_93":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e959.125 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+649 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+79"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 17053
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_II:221"
+      - "MMOITEMS:ORE:KIM_CUONG_III:81"
+    rewards:
+      xp: 649
+      commands:
+        - "eco give %player% 959125"
+        - "turtletop add %player% giaohang 79"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_94":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e968.725 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+655 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+80"
+    level_required: 21
+    wait_time_seconds: 17346
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:478"
+      - "MMOITEMS:ORE:KIM_CUONG_III:77"
+    rewards:
+      xp: 655
+      commands:
+        - "eco give %player% 968725"
+        - "turtletop add %player% giaohang 80"
+  "ore_task_95":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e987.050 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+679 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+81"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 21
+    wait_time_seconds: 17640
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_II:245"
+      - "MMOITEMS:ORE:KIM_CUONG_I:592"
+    rewards:
+      xp: 679
+      commands:
+        - "eco give %player% 987050"
+        - "turtletop add %player% giaohang 81"
+        - "crates key give %player% cratesskey 1"
+  "ore_task_96":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e995.775 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+683 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+82"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 17936
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:693"
+      - "MMOITEMS:ORE:KIM_CUONG_II:189"
+    rewards:
+      xp: 683
+      commands:
+        - "eco give %player% 995775"
+        - "turtletop add %player% giaohang 82"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_97":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.030.150 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+739 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+82"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 18234
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_III:201"
+      - "MMOITEMS:ORE:KIM_CUONG_II:448"
+      - "MMOITEMS:ORE:KIM_CUONG_I:587"
+    rewards:
+      xp: 739
+      commands:
+        - "eco give %player% 1030150"
+        - "turtletop add %player% giaohang 82"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_98":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.021.225 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+708 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+83"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 18533
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_II:421"
+      - "MMOITEMS:ORE:KIM_CUONG_I:527"
+    rewards:
+      xp: 708
+      commands:
+        - "eco give %player% 1021225"
+        - "turtletop add %player% giaohang 83"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_99":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.030.250 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+713 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+84"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 18835
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_I:504"
+      - "MMOITEMS:ORE:KIM_CUONG_II:433"
+    rewards:
+      xp: 713
+      commands:
+        - "eco give %player% 1030250"
+        - "turtletop add %player% giaohang 84"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_100":
+    category: "ore"
+    name: "&b&l[✦] &fHợp đồng: &bRank A"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.035.150 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+710 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+85"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 21
+    wait_time_seconds: 19138
+    items:
+      - "MMOITEMS:ORE:KIM_CUONG_III:97"
+      - "MMOITEMS:ORE:KIM_CUONG_I:915"
+    rewards:
+      xp: 710
+      commands:
+        - "eco give %player% 1035150"
+        - "turtletop add %player% giaohang 85"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_101":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.191.110 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+691 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+85"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 19443
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_I:187"
+    rewards:
+      xp: 691
+      commands:
+        - "eco give %player% 1191110"
+        - "turtletop add %player% giaohang 85"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_102":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.199.360 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+691 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+86"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 19750
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_I:112"
+    rewards:
+      xp: 691
+      commands:
+        - "eco give %player% 1199360"
+        - "turtletop add %player% giaohang 86"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_103":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.210.430 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+697 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+87"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 20059
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_I:131"
+    rewards:
+      xp: 697
+      commands:
+        - "eco give %player% 1210430"
+        - "turtletop add %player% giaohang 87"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_104":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.223.960 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+708 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+88"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx1"
+    level_required: 26
+    wait_time_seconds: 20370
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_I:232"
+    rewards:
+      xp: 708
+      commands:
+        - "eco give %player% 1223960"
+        - "turtletop add %player% giaohang 88"
+        - "crates key give %player% cratesakey 1"
+  "ore_task_105":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.234.460 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+713 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+88"
+    level_required: 26
+    wait_time_seconds: 20682
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_I:232"
+    rewards:
+      xp: 713
+      commands:
+        - "eco give %player% 1234460"
+        - "turtletop add %player% giaohang 88"
+  "ore_task_106":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.244.120 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+717 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+89"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 20997
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_II:102"
+    rewards:
+      xp: 717
+      commands:
+        - "eco give %player% 1244120"
+        - "turtletop add %player% giaohang 89"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_107":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.260.920 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+734 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+90"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 21313
+    items:
+      - "MMOITEMS:ORE:NHAM_THACH_II:207"
+    rewards:
+      xp: 734
+      commands:
+        - "eco give %player% 1260920"
+        - "turtletop add %player% giaohang 90"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_108":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.275.080 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+747 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+91"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+    level_required: 26
+    wait_time_seconds: 21630
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_II:173"
+      - "MMOITEMS:ORE:NHAM_THACH_II:95"
+    rewards:
+      xp: 747
+      commands:
+        - "eco give %player% 1275080"
+        - "turtletop add %player% giaohang 91"
+        - "crates key give %player% cratesskey 2"
+  "ore_task_109":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.280.360 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+741 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+91"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 21950
+    items:
+      - "MMOITEMS:ORE:NHAM_THACH_II:181"
+    rewards:
+      xp: 741
+      commands:
+        - "eco give %player% 1280360"
+        - "turtletop add %player% giaohang 91"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_110":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.303.340 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+771 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+92"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 22271
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_II:188"
+      - "MMOITEMS:ORE:NHAM_THACH_I:402"
+    rewards:
+      xp: 771
+      commands:
+        - "eco give %player% 1303340"
+        - "turtletop add %player% giaohang 92"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_111":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.316.150 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+781 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+93"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 22594
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_I:461"
+      - "MMOITEMS:ORE:BANG_THACH_II:197"
+    rewards:
+      xp: 781
+      commands:
+        - "eco give %player% 1316150"
+        - "turtletop add %player% giaohang 93"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_112":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.332.620 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+798 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+94"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 22919
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_I:550"
+      - "MMOITEMS:ORE:BANG_THACH_II:252"
+    rewards:
+      xp: 798
+      commands:
+        - "eco give %player% 1332620"
+        - "turtletop add %player% giaohang 94"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_113":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.348.310 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+813 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+94"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 23246
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_II:138"
+      - "MMOITEMS:ORE:NHAM_THACH_II:267"
+      - "MMOITEMS:ORE:NHAM_THACH_III:139"
+    rewards:
+      xp: 813
+      commands:
+        - "eco give %player% 1348310"
+        - "turtletop add %player% giaohang 94"
+        - "crates key give %player% cratesskey 1"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_114":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.353.080 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+807 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+95"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx1"
+    level_required: 26
+    wait_time_seconds: 23574
+    items:
+      - "MMOITEMS:ORE:LOI_THACH_II:215"
+      - "MMOITEMS:ORE:BANG_THACH_I:606"
+    rewards:
+      xp: 807
+      commands:
+        - "eco give %player% 1353080"
+        - "turtletop add %player% giaohang 95"
+        - "crates key give %player% cratesskey 1"
+  "ore_task_115":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.365.320 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+815 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+96"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 23904
+    items:
+      - "MMOITEMS:ORE:NHAM_THACH_I:325"
+      - "MMOITEMS:ORE:NHAM_THACH_III:63"
+      - "MMOITEMS:ORE:LOI_THACH_II:290"
+    rewards:
+      xp: 815
+      commands:
+        - "eco give %player% 1365320"
+        - "turtletop add %player% giaohang 96"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_116":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.372.790 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+814 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+97"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 24236
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_I:528"
+      - "MMOITEMS:ORE:LOI_THACH_I:465"
+    rewards:
+      xp: 814
+      commands:
+        - "eco give %player% 1372790"
+        - "turtletop add %player% giaohang 97"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_117":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.407.410 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+867 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+97"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 24569
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_II:193"
+      - "MMOITEMS:ORE:BANG_THACH_I:701"
+      - "MMOITEMS:ORE:LOI_THACH_I:710"
+    rewards:
+      xp: 867
+      commands:
+        - "eco give %player% 1407410"
+        - "turtletop add %player% giaohang 97"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
+  "ore_task_118":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.401.800 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+840 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+98"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+    level_required: 26
+    wait_time_seconds: 24905
+    items:
+      - "MMOITEMS:ORE:BANG_THACH_II:396"
+      - "MMOITEMS:ORE:NHAM_THACH_III:156"
+    rewards:
+      xp: 840
+      commands:
+        - "eco give %player% 1401800"
+        - "turtletop add %player% giaohang 98"
+        - "crates key give %player% cratesakey 2"
+  "ore_task_119":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.429.010 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+879 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+99"
+      - "  &8▪ &c★&4✮ &c&lCHÌA KHÓA TRANG BỊ &d☾&c⦿&d☽ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(8 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 25242
+    items:
+      - "MMOITEMS:ORE:NHAM_THACH_I:834"
+      - "MMOITEMS:ORE:NHAM_THACH_III:153"
+      - "MMOITEMS:ORE:LOI_THACH_I:524"
+    rewards:
+      xp: 879
+      commands:
+        - "eco give %player% 1429010"
+        - "turtletop add %player% giaohang 99"
+        - "crates key give %player% cratesakey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-8h"
+  "ore_task_120":
+    category: "ore"
+    name: "&d&l[✦] &fHợp đồng: &dRank A+"
+    lore:
+      - "&7Thương nhân đang khẩn cấp"
+      - "&7thu mua quặng từ Dungeon."
+      - ""
+      - "&8▶ &e&lPhần thưởng:"
+      - "  &8▪ &e1.418.600 Tiền"
+      - "  &8▪ &b&l⭐ &fKinh nghiệm giao hàng: &b+842 XP"
+      - "  &8▪ &a&l✧ &fĐiểm top giao hàng: &a+100"
+      - "  &8▪ &4⊰&c⊰&dꕥ&c⊱&4⊱ &f&lCHÌA KHÓA &c&l&k||&r &4&lKỸ NĂNG &c&l&k||&r &4⊰&c⊰&dꕥ&c⊱&4⊱ &fx2"
+      - "  &8▪ &#00FF7F&l★ BOOSTER X2 XP &f(5 Tiếng) &fx1"
+    level_required: 26
+    wait_time_seconds: 25580
+    items:
+      - "MMOITEMS:ORE:NHAM_THACH_I:550"
+      - "MMOITEMS:ORE:LOI_THACH_I:570"
+    rewards:
+      xp: 842
+      commands:
+        - "eco give %player% 1418600"
+        - "turtletop add %player% giaohang 100"
+        - "crates key give %player% cratesskey 2"
+        - "sl-booster:slb give %player% solo-leveling-exp-5h"
